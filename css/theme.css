@@ -1,0 +1,44 @@
+
+body{
+    background: linear-gradient(180deg, #fff 15%, #0047BA 100%);
+}
+
+#content-all {
+    padding-top: 10px;
+    padding-left: 10px;
+    background: linear-gradient(180deg, #fff 15%, #0047BA 100%) }
+
+#headerCard{
+	background: #64B5F6;
+}
+
+#checkoutCard{
+	background: #BBDEFB;
+}
+
+#main1{
+	overflow-y: hidden;
+}
+
+#headerText{
+	color: #FFFFFF;
+}
+
+#searchIcon{
+    color: #FFFFFF;
+}
+
+#searchBox
+{
+    border:none;
+    background: rgba(0, 0, 0, 0);
+    outline: none;
+    color: #FFFFFF;
+}
+
+#searchDiv{
+    border: 2px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    border-radius: 5px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PastorTool",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Aadu Pirn"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.7",
+    "angular": "git://github.com/angular/bower-angular.git#~1.4.7",
+    "angular-material": "git://github.com/angular/bower-material.git#~0.11.4"
+  }
+}
